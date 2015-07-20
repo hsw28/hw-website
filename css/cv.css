@@ -1,0 +1,304 @@
+html
+{
+	background: #7F7F7F url("../images/temp2.jpg") no-repeat center center fixed;
+	background-size: cover !important;
+}
+
+#page
+{
+	z-index: 1;
+	width: 1024px;
+	min-height: 725.8000000000002px;
+	padding-bottom: 0px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#page_position_content
+{
+	margin-top: -9px;
+	margin-bottom: -184px;
+}
+
+#pu1252-3
+{
+	width: 0.01px;
+	left: -100px;
+	position: relative;
+}
+
+#u1252-3
+{
+	z-index: 3;
+	width: 1224px;
+	min-height: 164px;
+	margin-right: -10000px;
+}
+
+#u1230
+{
+	z-index: 6;
+	width: 438px;
+	margin-right: -10000px;
+	left: 126px;
+}
+
+#u1230_img
+{
+	padding-right: 1px;
+}
+
+#u1193-18
+{
+	z-index: 11;
+	width: 429px;
+	min-height: 61px;
+	margin-right: -10000px;
+	margin-top: 136px;
+	left: 720px;
+}
+
+#u1450
+{
+	z-index: 29;
+	width: 38px;
+	margin-right: -10000px;
+	margin-top: 89px;
+	left: 1014px;
+}
+
+#u1465
+{
+	z-index: 31;
+	width: 40px;
+	margin-right: -10000px;
+	margin-top: 88px;
+	left: 824px;
+}
+
+#u1475
+{
+	z-index: 33;
+	width: 38px;
+	margin-right: -10000px;
+	margin-top: 89px;
+	left: 1060px;
+}
+
+#u1450_img,#u1475_img
+{
+	padding-right: 1px;
+	padding-bottom: 1px;
+}
+
+#u1681
+{
+	z-index: 42;
+	width: 38px;
+	margin-right: -10000px;
+	margin-top: 88px;
+	left: 921px;
+}
+
+#u1715
+{
+	z-index: 44;
+	width: 38px;
+	margin-right: -10000px;
+	margin-top: 88px;
+	left: 968px;
+}
+
+#u2080-6
+{
+	z-index: 46;
+	width: 513px;
+	min-height: 88px;
+	margin-right: -10000px;
+	left: 589px;
+}
+
+#u2084
+{
+	z-index: 52;
+	width: 45px;
+	margin-right: -10000px;
+	margin-top: 85px;
+	left: 871px;
+}
+
+#pu1253-3
+{
+	width: 0.01px;
+	left: -143px;
+	top: -9px;
+	margin-bottom: -9px;
+	position: relative;
+}
+
+#u1253-3
+{
+	z-index: 8;
+	width: 81px;
+	margin-right: -10000px;
+	margin-top: 67px;
+}
+
+#u1629
+{
+	z-index: 54;
+	width: 643px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #FFFFFF;
+	background-color: #FFFFFF;
+	padding-bottom: 24px;
+	margin-bottom: -1px;
+	position: relative;
+	margin-right: -10000px;
+	left: 337px;
+}
+
+#u394-237
+{
+	z-index: 55;
+	width: 617px;
+	min-height: 2244px;
+	background-color: #FFFFFF;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 8px;
+	left: 17px;
+}
+
+#u394-2
+{
+	font-size: 20px;
+	line-height: 1.15;
+	letter-spacing: 6px;
+	font-weight: bold;
+}
+
+#u394-14,#u394-27,#u394-43,#u394-62
+{
+	font-style: italic;
+}
+
+#u394-70
+{
+	font-size: 20px;
+	text-align: left;
+	letter-spacing: 6px;
+	font-weight: bold;
+}
+
+#u394-76
+{
+	text-align: left;
+	font-weight: normal;
+}
+
+#u394-74,#u394-81
+{
+	text-align: left;
+	font-weight: normal;
+	font-style: italic;
+}
+
+#u394-72,#u394-79,#u394-90,#u394-99,#u394-108,#u394-115,#u394-120
+{
+	text-align: left;
+	font-weight: bold;
+}
+
+#u394-68,#u394-83,#u394-85,#u394-87,#u394-88,#u394-92,#u394-94,#u394-96,#u394-97,#u394-101,#u394-103,#u394-105,#u394-106,#u394-110,#u394-112,#u394-113,#u394-117,#u394-118,#u394-122,#u394-124
+{
+	text-align: left;
+}
+
+#u394-125,#u394-126
+{
+	text-align: right;
+}
+
+#u394-158
+{
+	font-size: 20px;
+	letter-spacing: 6px;
+}
+
+#u394-3,#u394-11,#u394-17,#u394-30,#u394-165,#u394-167,#u394-169,#u394-175,#u394-181,#u394-187,#u394-193,#u394-200
+{
+	font-weight: bold;
+}
+
+#u394-208
+{
+	font-size: 20px;
+	letter-spacing: 0px;
+	font-weight: bold;
+}
+
+#u394-206
+{
+	font-size: 14px;
+}
+
+#u394-207
+{
+	font-size: 14px;
+	font-weight: normal;
+}
+
+#u394-164,#u394-166,#u394-212
+{
+	font-weight: normal;
+}
+
+#u394-35,#u394-37,#u394-39,#u394-50,#u394-52,#u394-128,#u394-144,#u394-146,#u394-160,#u394-162,#u394-197,#u394-199,#u394-203,#u394-205,#u394-209,#u394-211,#u394-216,#u394-230,#u394-235
+{
+	font-size: 20px;
+	letter-spacing: 6px;
+	font-weight: bold;
+}
+
+#pu1662
+{
+	width: 0.01px;
+	left: -100px;
+	margin-top: 133px;
+	position: relative;
+}
+
+#u1662
+{
+	z-index: 2;
+	width: 1224px;
+	height: 80px;
+	margin-right: -10000px;
+}
+
+#u1663-6
+{
+	z-index: 35;
+	width: 1224px;
+	min-height: 50px;
+	margin-right: -10000px;
+	margin-top: 15px;
+}
+
+#u1668
+{
+	z-index: 41;
+	width: 200px;
+	margin-right: -10000px;
+	margin-top: 57px;
+	left: 577px;
+}
+
+body
+{
+	padding-top: 36px;
+	padding-bottom: 104px;
+}
+

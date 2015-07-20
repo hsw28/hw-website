@@ -1,0 +1,40 @@
+<manifest alg="2" build="704" opt="false" iceEnabled="true">
+  <folder name="css">
+    <file name="site_global.css" crc="3974413751"/>
+    <file name="master_b-master.css" crc="3831859608" ref="index:inspiration:contact:about:cv"/>
+    <file name="index.css" crc="4021772258" ref="index"/>
+    <file name="inspiration.css" crc="12731018" ref="inspiration"/>
+    <file name="contact.css" crc="3845412960" ref="contact"/>
+    <file name="about.css" crc="4023223029" ref="about"/>
+    <file name="cv.css" crc="4030262035" ref="cv"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:cv:inspiration:contact"/>
+    <file name="museutils.js" crc="3992981318" ref="index:about:cv:inspiration:contact"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3956991090" ref="index:about:cv:inspiration:contact"/>
+    <file name="jquery.tobrowserwidth.js" crc="317228635" ref="index:about:cv:inspiration:contact"/>
+  </folder>
+  <folder name="images">
+    <file name="temp2.jpg" crc="50694435" ref="index:about:cv:inspiration:contact"/>
+    <file name="headingcropped.jpg" crc="4187509904" ref="index:about:cv:inspiration:contact"/>
+    <file name="circletwitter.jpg" crc="4077142645" ref="index:about:cv:inspiration:contact"/>
+    <file name="circlefb.jpg" crc="131941559" ref="index:about:cv:inspiration:contact"/>
+    <file name="circleas.jpg" crc="3917962973" ref="index:about:cv:inspiration:contact"/>
+    <file name="circlent.jpg" crc="3913737904" ref="index:about:cv:inspiration:contact"/>
+    <file name="circlelinked.jpg" crc="235619554" ref="index:about:cv:inspiration:contact"/>
+    <file name="lionface.jpg" crc="4192677483" ref="about"/>
+    <file name="pasted image 736x552.jpg" crc="59003286" ref="inspiration"/>
+    <file name="pasted image 499x290.jpg" crc="494388837" ref="inspiration"/>
+    <file name="pasted image 500x1140.jpg" crc="3856753194" ref="inspiration"/>
+    <file name="pasted image 2728x1857.jpg" crc="4239905743" ref="inspiration"/>
+    <file name="pasted image 351x84.jpg" crc="4061238312" ref="contact"/>
+    <file name="me.jpg" crc="11588192" ref="index"/>
+    <file name="pasted image 128x128.png" crc="518164834" ref="index:about:cv:inspiration:contact"/>
+    <file name="pasted image 960x960.jpg" crc="37849241" ref="about"/>
+  </folder>
+  <file name="index.html" crc="59709531" mt="1437367222639"/>
+  <file name="about.html" crc="4068211567" mt="1437367222626"/>
+  <file name="cv.html" crc="4062754149" mt="1437367222629"/>
+  <file name="inspiration.html" crc="404390293" mt="1437367222632"/>
+  <file name="contact.html" crc="476593487" mt="1437367222636"/>
+</manifest>
